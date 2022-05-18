@@ -1,0 +1,33 @@
+h2 {
+  color: orange;
+}
+
+body{
+  width: 400px;
+  height: 200px;
+}
+
+.firstDiv{
+  background-color: rgb(204, 237, 246);
+  width: 100%;
+}
+
+.logo{
+  width: 150px;
+  padding: 30px 20px 30px 20px;
+
+}
+
+.illustration{
+  width: 60%;
+}
+
+.pText{
+  font-size: 12px;
+  font-weight: 500;
+  color: rgb(58, 58, 58);
+}
+
+.last{
+  background-color: rgb(46, 46, 104);
+}
